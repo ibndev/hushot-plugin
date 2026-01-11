@@ -1,0 +1,116 @@
+{
+    "name": "Hushot - Grow Faster, Pay Less",
+    "short_name": "Hushot",
+    "description": "Create professional landing pages, run ads, and grow your business",
+    "start_url": "/hushot-dashboard/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#F7931E",
+    "orientation": "portrait-primary",
+    "categories": ["business", "productivity"],
+    "lang": "en",
+    "id": "hushot-pwa",
+    "icons": [
+        {
+            "src": "assets/images/icon-72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-180.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/images/icon-384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "assets/images/hushot-splash.png",
+            "sizes": "768x1376",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Hushot App"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Create Page",
+            "short_name": "Create",
+            "description": "Create a new landing page",
+            "url": "/hushot-create-page/",
+            "icons": [{"src": "assets/images/icon-96.png", "sizes": "96x96"}]
+        },
+        {
+            "name": "My Pages",
+            "short_name": "Pages",
+            "description": "View your landing pages",
+            "url": "/hushot-my-pages/",
+            "icons": [{"src": "assets/images/icon-96.png", "sizes": "96x96"}]
+        },
+        {
+            "name": "Ads Network",
+            "short_name": "Ads",
+            "description": "Promote your pages",
+            "url": "/hushot-ads-dashboard/",
+            "icons": [{"src": "assets/images/icon-96.png", "sizes": "96x96"}]
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+}
